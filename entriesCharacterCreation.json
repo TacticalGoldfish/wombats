@@ -1,0 +1,1246 @@
+[ 
+    
+    { 
+        "id": 1,
+        "name": "Backstory",
+        "children": [
+            {
+                "type": "row",
+                "class": "",
+                "style": "",
+                "text": "",
+                "children": [
+                    {
+                        "type": "column",
+                        "class": "",
+                        "style": "text-align: start;",
+                        "text": "",
+                        "cols": "12",
+                        "children": [
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "Your backstory must include the following two things:"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "1) You have some kind of positive story with "
+                            },
+                            {
+                                "type": "anchor",
+                                "targetModule": "c",
+                                "targetId": "1",
+                                "class": "",
+                                "style": "",
+                                "text": "Thergrum Deepstone"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": ", a noble dwarf who helped you out in some way in the past."
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "2) A few years ago you enrolled in the "
+                            },
+                            {
+                                "type": "anchor",
+                                "targetModule": "f",
+                                "targetId": "3",
+                                "class": "",
+                                "style": "",
+                                "text": "Royal Guard"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": " Training Program. Your back story needs to have some kind of motivation that drove that decision."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Flaw",
+        "children": [
+            {
+                "type": "row",
+                "class": "",
+                "style": "",
+                "text": "",
+                "children": [
+                    {
+                        "type": "column",
+                        "class": "",
+                        "style": "text-align: start;",
+                        "text": "",
+                        "cols": "12",
+                        "children": [
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "This module has a slightly different flaw system. During character creation, you are expected to come up with some kind of immediately evident flaw that will inspire prejudice from NPCs."
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "This will serve two purposes:"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "1) You detract 1 point from an ability score, and add it to another. This re-allocation must make logical sense."
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "2) Your flaw will inspire some kind of prejudice-based reaction with any npc that you are talking to. "
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "As mentioned, this flaw can be anything - medical, physical, social, etc. However, it needs to be something that manifests visually and be judgable prior to engaging in conversation."
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "font-weight: bold; font-size: 20px;",
+                                "text": "Examples:"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "font-weight: bold;",
+                                "text": "1) Old"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "Ability Score: +1 Wisdom (or Intelligence), -1 Strength (or Constitution)"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "- Older women, as well as younger women with daddy issues might get flirty"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "- Gentlefolk may be more respectful and considerate"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "- Warriors and people of power might see you as a frail has-been"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "- Youths may be dismissive and disrespectful"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "font-weight: bold;",
+                                "text": "2) Branded with eunuch a face tattoo. "
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "Ability Score: +1 Constitution, -1 Charisma"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "- Might invoke pity out of someone"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "- Might have a woman open up more easily because she isn't threatened by you as a man"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "- Might mocked or dismissed by masculine men"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "- Might be looked down upon by nobility"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "font-weight: bold;",
+                                "text": "3) Indent in head - left hand tremors "
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "Ability Score: +1 Strength, -1 Intelligence"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "- Wealthy folk may interpret your appearance and mannerisms as mentally unstable and treat you as a lunatic"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "- Warriors and criminals may be provoked by the hand twitching as a sign of wanting to fight."
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "- Children may find you silly-looking and fun to play with"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "- Medical folk may find your condition curious, and be more willing to converse with you. "
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "font-weight: bold;",
+                                "text": "4) Involuntary Humming"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "Ability Score: +1 Wisdom, -1 Charisma"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "- Inebriated and artistic people may be more welcoming"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "- Children are more open and at ease at your presence"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "- Children may find you silly-looking and fun to play with"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "- May convey disrespect during ceremonious events."
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "font-weight: bold;",
+                                "text": "5) Missing an Eye"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "Ability Score: +1 Charisma, -1 Dexterity"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "- Children may get scared by your gruff and dangerous appearance"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "- Warriors may show respect due to battle scar"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "- Scarred/crippled people may have a sense of solidarity"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "- Women will be wary and try to avoid/escape interacting"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "You can also come up with your own flaw, and associated reallocations/interaction effects"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "Note: During conversation with an NPC, the flaw that takes effect is that of the player who initiated the conversation."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Class",
+        "children": [
+            {
+                "type": "row",
+                "class": "",
+                "style": "",
+                "text": "",
+                "children": [
+                    {
+                        "type": "column",
+                        "class": "",
+                        "style": "text-align: start;",
+                        "text": "",
+                        "cols": "12",
+                        "children": [
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "The following are the basic 5e classes - click on the link to view more details:"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "anchor",
+                                "class": "",
+                                "style": "",
+                                "href": "https://roll20.net/compendium/dnd5e/Classes:Barbarian#h-Barbarian",
+                                "text": "Barbarian"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": " - Hit Dice: 1d12, Suggested abilities: Strength, Constitution"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "anchor",
+                                "class": "",
+                                "style": "",
+                                "href": "https://roll20.net/compendium/dnd5e/Classes:Bard",
+                                "text": "Bard"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": " - Hit Dice: 1d8, Suggested abilities: Charisma, Dexterity"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "anchor",
+                                "class": "",
+                                "style": "",
+                                "href": "https://roll20.net/compendium/dnd5e/Classes:Cleric",
+                                "text": "Cleric"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": " - Hit Dice: 1d8, Suggested abilities: Wisdom, Strength or Constitution"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "anchor",
+                                "class": "",
+                                "style": "",
+                                "href": "https://roll20.net/compendium/dnd5e/Classes:Druid",
+                                "text": "Druid"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": " - Hit Dice: 1d8, Suggested abilities: Wisdom, Constitution"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "anchor",
+                                "class": "",
+                                "style": "",
+                                "href": "https://roll20.net/compendium/dnd5e/Classes:Fighter",
+                                "text": "Fighter"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": " - Hit Dice: 1d10, Suggested abilities: Strength or Dexterity, Constitution or Intelligence"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "anchor",
+                                "class": "",
+                                "style": "",
+                                "href": "https://roll20.net/compendium/dnd5e/Classes:Monk",
+                                "text": "Monk"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": " - Hit Dice: 1d8, Suggested abilities: Dexterity, Wisdom"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "anchor",
+                                "class": "",
+                                "style": "",
+                                "href": "https://roll20.net/compendium/dnd5e/Classes:Paladin",
+                                "text": "Paladin"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": " - Hit Dice: 1d10, Suggested abilities: Strength, Charisma"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "anchor",
+                                "class": "",
+                                "style": "",
+                                "href": "https://roll20.net/compendium/dnd5e/Classes:Ranger",
+                                "text": "Ranger"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": " - Hit Dice: 1d10, Suggested abilities: Dexterity or Strength, Wisdom"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "anchor",
+                                "class": "",
+                                "style": "",
+                                "href": "https://roll20.net/compendium/dnd5e/Classes:Rogue",
+                                "text": "Rogue"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": " - Hit Dice: 1d8, Suggested abilities: Dexterity, Intelligence or Charisma"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "anchor",
+                                "class": "",
+                                "style": "",
+                                "href": "https://roll20.net/compendium/dnd5e/Classes:Sorcerer",
+                                "text": "Sorcerer"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": " - Hit Dice: 1d6, Suggested abilities: Charisma, Constitution"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "anchor",
+                                "class": "",
+                                "style": "",
+                                "href": "https://roll20.net/compendium/dnd5e/Classes:Warlock",
+                                "text": "Warlock"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": " - Hit Dice: 1d8, Suggested abilities: Charisma, Consitution"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "anchor",
+                                "class": "",
+                                "style": "",
+                                "href": "https://roll20.net/compendium/dnd5e/Classes:Wizard",
+                                "text": "Wizard"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": " - Hit Dice: 1d6, Suggested abilities: Intelligence, Constitution or Dexterity or Charisma"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "In addition to the above, there are some additional ones available via expansions. You can use them if DM feels it's acceptable."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Race",
+        "children": [
+            
+            {
+                "type": "row",
+                "class": "",
+                "style": "",
+                "text": "",
+                "children": [
+                    {
+                        "type": "column",
+                        "class": "",
+                        "style": "text-align: start;",
+                        "text": "",
+                        "cols": "12",
+                        "children": [
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "You can select any race from the 5e base edition, no questions asked (open the character link for additional race-specific traits):"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "anchor",
+                                "class": "",
+                                "style": "",
+                                "href": "https://roll20.net/compendium/dnd5e/Races:Dragonborn",
+                                "text": "Dragonborn"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": " - +2 Strength, +1 Charisma, speed 30ft, medium size"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "anchor",
+                                "class": "",
+                                "style": "",
+                                "href": "https://roll20.net/compendium/dnd5e/Races:Dwarf#content",
+                                "text": "Dwarf"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": " - +2 Constitution, speed 25ft, medium size"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "anchor",
+                                "class": "",
+                                "style": "",
+                                "href": "https://roll20.net/compendium/dnd5e/Races:Elf#content",
+                                "text": "Elf"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "f",
+                                "text": " - +2 Dexterity, speed 30ft, medium size"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "anchor",
+                                "class": "",
+                                "style": "",
+                                "href": "https://roll20.net/compendium/dnd5e/Races:Gnome#content",
+                                "text": "Gnome"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": " - +2 Intelligence, speed 25ft, small size"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "anchor",
+                                "class": "",
+                                "style": "",
+                                "href": "https://roll20.net/compendium/dnd5e/Races:Half%2DElf#content",
+                                "text": "Half-Elf"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": " - +2 Charisma, +1 your choice of ability, speed 30ft, medium size"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "anchor",
+                                "class": "",
+                                "style": "",
+                                "href": "https://roll20.net/compendium/dnd5e/Races:Half%2DOrc#content",
+                                "text": "Half-Orc"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": " - +2 Strength, +1 Constitution, speed 30ft, medium size"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "anchor",
+                                "class": "",
+                                "style": "",
+                                "href": "https://roll20.net/compendium/dnd5e/Races:Halfling#content",
+                                "text": "Halfling"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": " - +2 Dexterity, speed 25ft, small size"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "anchor",
+                                "class": "",
+                                "style": "",
+                                "href": "https://roll20.net/compendium/dnd5e/Races:Human#content",
+                                "text": "Human"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": " - +1 to each ability score, speed 30ft, medium size"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "anchor",
+                                "class": "",
+                                "style": "",
+                                "href": "https://roll20.net/compendium/dnd5e/Races:Tiefling#content",
+                                "text": "Tiefling"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": " - +2 Charisma, +1 Intelligence, speed 30ft, medium size"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "You can also explore races from other expansions "
+                            },
+                            {
+                                "type": "anchor",
+                                "class": "",
+                                "style": "",
+                                "href": "https://www.dndbeyond.com/races",
+                                "text": "here"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": ", but talk to your DM to confirm that your choice is acceptable to the campaign."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    
+    {
+        "id": 5,
+        "name": "Background",
+        "children": [
+            
+            {
+                "type": "row",
+                "class": "",
+                "style": "",
+                "text": "",
+                "children": [
+                    {
+                        "type": "column",
+                        "class": "",
+                        "style": "text-align: start;",
+                        "text": "",
+                        "cols": "12",
+                        "children": [
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "You can select any background from the following list, which includes backgrounds from other sources:"
+                            },
+                            { "type": "newLine" }, { "type": "anchor", "href": "https://5ebackgrounds.com/acolyte/", "text": "Acolyte" }, { "type": "span", "text": " - Skill Proficiencies: Insight (WIS), Religion (INT)" },
+                            { "type": "newLine" }, { "type": "anchor", "href": "https://5ebackgrounds.com/charlatan/", "text": "Charlatan" }, { "type": "span", "text": " - Skill Proficiencies: Deception (CHA), sleight of hand (DEX)" },
+                            { "type": "newLine" }, { "type": "anchor", "href": "https://5ebackgrounds.com/criminal/", "text": "Criminal" }, { "type": "span", "text": " - Skill Proficiencies: Deception (CHA), stealth (DEX)" },
+                            { "type": "newLine" }, { "type": "anchor", "href": "https://5ebackgrounds.com/entertainer/", "text": "Entertainer" }, { "type": "span", "text": " - Skill Proficiencies: Acrobatics (DEX), performance (CHA)" },
+                            { "type": "newLine" }, { "type": "anchor", "href": "https://5ebackgrounds.com/folk-hero/", "text": "Folk Hero" }, { "type": "span", "text": " - Skill Proficiencies: Animal handling (WIS), survival (WIS)" },
+                            { "type": "newLine" }, { "type": "anchor", "href": "https://5ebackgrounds.com/gladiator/", "text": "Gladiator" }, { "type": "span", "text": " - Skill Proficiencies: Acrobatics (DEX), performance (CHA)" },
+                            { "type": "newLine" }, { "type": "anchor", "href": "https://5ebackgrounds.com/guild-artisan/", "text": "Guild Artisan" }, { "type": "span", "text": " - Skill Proficiencies: Insight (WIS), persuasion (CHA)" },
+                            { "type": "newLine" }, { "type": "anchor", "href": "https://5ebackgrounds.com/guild-artisan/", "text": "Guild Merchant" }, { "type": "span", "text": " - Skill Proficiencies: Insight (WIS), persuasion (CHA)" },
+                            { "type": "newLine" }, { "type": "anchor", "href": "https://5ebackgrounds.com/hermit/", "text": "Hermit" }, { "type": "span", "text": " - Skill Proficiencies: Medicine (WIS), religion (INT)" },
+                            { "type": "newLine" }, { "type": "anchor", "href": "https://5ebackgrounds.com/knight/", "text": "Knight" }, { "type": "span", "text": " - Skill Proficiencies: History (INT), persuasion (CHA)" },
+                            { "type": "newLine" }, { "type": "anchor", "href": "https://5ebackgrounds.com/noble/", "text": "Noble" }, { "type": "span", "text": " - Skill Proficiencies: History (INT), persuasion (CHA)" },
+                            { "type": "newLine" }, { "type": "anchor", "href": "https://5ebackgrounds.com/outlander/", "text": "Outlander" }, { "type": "span", "text": " - Skill Proficiencies: Athletics (STR), survival (WIS)" },
+                            { "type": "newLine" }, { "type": "anchor", "href": "https://5ebackgrounds.com/pirate/", "text": "Pirate" }, { "type": "span", "text": " - Skill Proficiencies: Athletics (STR), perception (WIS)" },
+                            { "type": "newLine" }, { "type": "anchor", "href": "https://5ebackgrounds.com/sage/", "text": "Sage" }, { "type": "span", "text": " - Skill Proficiencies: Arcana (INT), history (INT)" },
+                            { "type": "newLine" }, { "type": "anchor", "href": "https://5ebackgrounds.com/sailor/", "text": "Sailor" }, { "type": "span", "text": " - Skill Proficiencies: Athletics (STR), perception (WIS)" },
+                            { "type": "newLine" }, { "type": "anchor", "href": "https://5ebackgrounds.com/soldier-background-5e/", "text": "Soldier" }, { "type": "span", "text": " - Skill Proficiencies: Athletics (STR), intimidation (CHA)" },
+                            { "type": "newLine" }, { "type": "anchor", "href": "https://5ebackgrounds.com/spy/", "text": "Spy" }, { "type": "span", "text": " - Skill Proficiencies: Deception (CHA), stealth (DEX)" },
+                            { "type": "newLine" }, { "type": "anchor", "href": "https://5ebackgrounds.com/urchin/", "text": "Urchin" }, { "type": "span", "text": " - Skill Proficiencies: Sleight of hand (DEX), stealth (DEX)" },
+                            { "type": "newLine" },
+                            { "type": "span", "text": "There are also other backgrounds that you can find " },
+                            {
+                                "type": "anchor",
+                                "class": "",
+                                "style": "",
+                                "href": "https://5ebackgrounds.com/",
+                                "text": "here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Ability Score Rolls",
+        "children": [
+            
+            {
+                "type": "row",
+                "class": "",
+                "style": "",
+                "text": "",
+                "children": [
+                    {
+                        "type": "column",
+                        "class": "",
+                        "style": "text-align: start;",
+                        "text": "",
+                        "cols": "12",
+                        "children": [
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "Assign your desired ability scores from the following array: 8, 9, 12, 14, 16, 17"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Health",
+        "children": [
+            
+            {
+                "type": "row",
+                "class": "",
+                "style": "",
+                "text": "",
+                "children": [
+                    {
+                        "type": "column",
+                        "class": "",
+                        "style": "text-align: start;",
+                        "text": "",
+                        "cols": "12",
+                        "children": [
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "Your starting health is as indicated for your "
+                            },
+                            {
+                                "type": "anchor",
+                                "targetModule": "cc",
+                                "targetId": "3",
+                                "class": "",
+                                "style": "",
+                                "text": "class"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "."
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "Per level, you roll as indicated for your class. However, if your roll is equal to or lower than your CON modifier, re-roll it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Equipment",
+        "children": [
+            
+            {
+                "type": "row",
+                "class": "",
+                "style": "",
+                "text": "",
+                "children": [
+                    {
+                        "type": "column",
+                        "class": "",
+                        "style": "text-align: start;",
+                        "text": "",
+                        "cols": "12",
+                        "children": [
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "You come equipped with whatever default equipment comes from your class and background."
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "Starting Gold is whatever you start with based on your class/background. Add 350 gold, and roll for the following amount depending on your class:"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "Barbarian: 2d4 x 10gp"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "Bard: 5d4 x 10gp"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "Cleric: 5d4 x 10gp"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "Druid: 2d4 x 10gp"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "Fighter: 5d4 x 10gp"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "Monk: 5d4"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "Paladin: 5d4 x 10gp"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "Rogue: 4d4 x 10gp"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "Sorcerer: 3d4 x 10gp"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "Warlock: 4d4 x 10gp"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "Wizard: 4d4 x 10gp"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "If you go for a class outside of the above options, do the following:"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "Utility class (alchemist, noble, artisan, etc.): 5d4 x 10gp "
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "Combat class (gunner, spellsword, etc.): 4d4 x 10gp "
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "Reclusive class (hermit, homeless, etc.): 2d4 x 10gp "
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "Before starting the campaign, go to the "
+                            },
+                            {
+                                "type": "anchor",
+                                "targetModule": "t",
+                                "targetId": "0",
+                                "class": "",
+                                "style": "",
+                                "text": "market"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": " and spend your gold as you see fit. You can also sell any equipment you don't want, for 50% (+10% per charisma modifier) of its market value "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

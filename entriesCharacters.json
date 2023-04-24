@@ -1,0 +1,76 @@
+[
+    {
+        "id": 1,
+        "name": "Thergrum Deepstone",
+        "alias": "",
+        "type": "NPC",
+        "children": [ 
+            
+            {
+                "type": "row",
+                "class": "",
+                "style": "",
+                "text": "",
+                "children": [
+                    {
+                        "type": "column",
+                        "class": "",
+                        "style": "text-align: start;",
+                        "text": "",
+                        "cols": "6",
+                        "children": [
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "font-weight: bold;",
+                                "text": "Class: "
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "Noble"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "newLine"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "font-weight: bold;",
+                                "text": "Affiliates: "
+                            },
+                            {
+                                "type": "newLine"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "column",
+                        "class": "pt-10",
+                        "style": "text-align: start;",
+                        "text": "",
+                        "cols": "8",
+                        "children": [
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "font-weight: bold;",
+                                "text": "History: "
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": "A well-regarded noble of the kingdon with ties to high-ranking officials and even some royalty. Sponsors several welfare programs around the city, and takes an active part in the community."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
