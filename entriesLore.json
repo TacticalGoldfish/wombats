@@ -46,7 +46,21 @@
                                 "type": "span",
                                 "class": "",
                                 "style": "",
-                                "text": "The Capital City of Sedal is Courtac, a stable center of the kingdom, the seat of power of the Royal family, the center of power for all of Sedal nobility, and home to 50,000 souls."
+                                "text": "The Capital City of Sedal is "
+                            },
+                            {
+                                "type": "anchor",
+                                "targetModule": "m",
+                                "targetId": "1",
+                                "class": "",
+                                "style": "",
+                                "text": "Courtac"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": ", a stable center of the kingdom, the seat of power of the Royal family, the center of power for all of Sedal nobility, and home to 50,000 souls."
                             }
                         ]
                     }
@@ -120,7 +134,35 @@
                                 "type": "span",
                                 "class": "",
                                 "style": "",
-                                "text": "Three and a half years ago, Courtac's nobility, with the express approval of the king, launched the Royal Guard Training Program. This program was designed to identify and foster talented individuals that would otherwise go unnoticed due to social heirarchies. The ultimate goal was to bolster the ranks of the Royal Guards, as a large portion of veterans are due to retire in the coming years."
+                                "text": "Three and a half years ago, Courtac's "
+                            },
+                            {
+                                "type": "anchor",
+                                "targetModule": "f",
+                                "targetId": "2",
+                                "class": "",
+                                "style": "",
+                                "text": "nobility"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": ", with the express approval of the king, launched the Royal Guard Training Program. This program was designed to identify and foster talented individuals that would otherwise go unnoticed due to social heirarchies. The ultimate goal was to bolster the ranks of the "
+                            },
+                            {
+                                "type": "anchor",
+                                "targetModule": "f",
+                                "targetId": "3",
+                                "class": "",
+                                "style": "",
+                                "text": "Royal Guard"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": ", as a large portion of veterans are due to retire in the coming years."
                             },
                             {
                                 "type": "newLine"
@@ -163,7 +205,21 @@
                                 "type": "span",
                                 "class": "",
                                 "style": "",
-                                "text": "About three years ago, your story came across Thergrum Deepstone, a member of dwarven nobility. Thergrum perceived potential in you, and through his recommendation you were admitted into the Royal Guard Training Program. Your training period ended a couple of months ago, and you were due for assessment to be admitted into the Royal Guard. "
+                                "text": "About three years ago, your story came across "
+                            },
+                            {
+                                "type": "anchor",
+                                "targetModule": "c",
+                                "targetId": "1",
+                                "class": "",
+                                "style": "",
+                                "text": "Thergrum Deepstone"
+                            },
+                            {
+                                "type": "span",
+                                "class": "",
+                                "style": "",
+                                "text": ", a member of dwarven nobility. Thergrum perceived potential in you, and through his recommendation you were admitted into the Royal Guard Training Program. Your training period ended a couple of months ago, and you were due for assessment to be admitted into the Royal Guard."
                             },
                             {
                                 "type": "newLine"
